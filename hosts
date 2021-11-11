@@ -40,7 +40,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tiles.search.brave.com
 0.0.0.0 districtm.io
 0.0.0.0 dmx.districtm.io
-
-
+0.0.0.0 emxdgt.com
+0.0.0.0 hb.emxdgt.com
 
 # End of custom host records.

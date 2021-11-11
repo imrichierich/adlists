@@ -44,6 +44,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 hb.emxdgt.com
 0.0.0.0 pushwoosh.com
 0.0.0.0 cdn.pushwoosh.com
+0.0.0.0 zucks.net
+0.0.0.0 j.zucks.net.zimg.jp
+0.0.0.0 k.zucks.net
+0.0.0.0 sh.zucks.net
+0.0.0.0 static.zucks.net.zimg.jp
 
 
 # End of custom host records.
